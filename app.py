@@ -46,11 +46,9 @@ with col1:
     st.image("https://img.icons8.com/clouds/200/love-message.png", width=150)
 
 with col2:
-    st.header("Halo Cantik/Ganteng! ✨")
+    st.header("Haloo Jes maap gabut ! ✨")
     st.write("""
-    Di hari kasih sayang ini, aku cuma mau bilang kalau kamu 
-    adalah bagian terindah dalam hidupku. Terima kasih sudah 
-    selalu ada dan menjadi alasan aku tersenyum setiap hari.
+    Kangen. oh iya smgt ya seminggunya see you lagi besok kamis hehehehe. slmat valentine. alay gak seh le misal ngene???.
     """)
 
 # Interaksi Tombol
@@ -60,7 +58,7 @@ if st.button("Klik di sini untuk kejutan! 🎁"):
     
     st.markdown("### 💌 Pesan Spesial:")
     message = st.empty()
-    text = "Happy Valentine's Day! 🌹\n\nSemoga hari-harimu selalu penuh dengan kebahagiaan, cokelat, dan pelukan hangat sehangat Teddy Bear! 🧸"
+    text = "Happy Valentine's Day! 🌹\n\nCOKLAT E NYUSUL HEHEHEHE! 🧸"
     
     # Efek mengetik sederhana
     full_text = ""
@@ -73,4 +71,4 @@ if st.button("Klik di sini untuk kejutan! 🎁"):
 
 # Footer dekoratif
 st.write("---")
-st.write("🌷 *I love you to the moon and back!*")
+st.write("🌷 *Beda agama peduli apa😜😜😜😜!*")
